@@ -44,9 +44,7 @@ The following structure is proposed; folders and files will be added as the jour
 ├── chapters/
 │   └── chapter1 (1-16)/
 │       ├──Summary & Learnings.md
-│       └── additional-reading.md
-│       ├──Summary & Learnings.md
-│       └── additional-reading.md
+│       └──Additional-reading.md
 ├── research/
 │   ├── reading-list.md
 │   ├── source-notes.md
