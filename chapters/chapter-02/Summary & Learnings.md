@@ -5,6 +5,9 @@
 - **Status:** Complete
 
 ## Summary
+An AI Governance program is critical to the successful and safe use of AI systems by both employees and customers and include key benefits such as, competitive advantage, lower risk, fostering innovation, earning trust with customers, improving quality and ensuring regulatory compliance. This summary will decompose the chapter into the what, the why, the where and the why.
+
+The What:
 - An AI Governance Program is an organization wide system of people, process and controls that apply to the development, deployment and oversight of AI systems in a responsible manner that prioritizes organization values and complies with applicable laws and regulations. The benefits include, for example, competitive advantage, lower risk, fostering innovation, earning trust with customers, improving quality and ensuring regulatory compliance.
 - 
 
