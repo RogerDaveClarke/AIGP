@@ -16,7 +16,7 @@ An AI Governance program is critical to the successful and safe use of AI system
 **The Who**: This is the group of people and entities that influence, contribute to, or are affected by the organization's strategy including internal and external stakeholders. This part of the program should create an ecosystem map that establishes clear lines of communications using the following steps: Identfy stakeholders, Categorize and Prioritize stakeholders, Develop and implement engagement policies and Monitor and adjust.
 
 ## Framework Best Practices 
-**Executive Sponsorship:** This is the cornerstone of the program signaling that responsible AI is a strategic priority,
+ - **Executive Sponsorship:** This is the cornerstone of the program signaling that responsible AI is a strategic priority,
                            Pro
 **Risk Assessments:** 
 **Policies, Processes and Controls:** 
