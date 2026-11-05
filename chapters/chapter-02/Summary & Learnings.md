@@ -29,7 +29,9 @@ An AI Governance program is critical to the successful and safe use of AI system
 - AI Governance, Data Stewardship, AI Inventory, Monitoring, AI Intake, Shadow AI, Auto-Registration, Model Card, Trace Lineage, Content Filters, Human-Agent Interaction
 
 ## Principal Learnings & Reflections
-
+- An AI governance program is critical to any organisation engaging the use of AI systems, most especially in protecting against the use of Shadow AI and inadvertent replace of proprietary information that may expose an organisations IP or sensitive customer data.
+- For a program to be successful
+  
 ## Practical Implications
 
 ## Relevant Exam Objectives
