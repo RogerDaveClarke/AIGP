@@ -18,7 +18,7 @@ An AI Governance program is critical to the successful and safe use of AI system
 ## Framework Best Practices 
  - **Executive Sponsorship:** This is the cornerstone of the program setting the tone and signaling that responsible AI is a strategic priority, provides resources, clear pathway for decision making, ensures the board has visibility, ensures RAI is everyone's responsibility and ensures the organization's values and norms are embedded.
  - **Risk Assessments:** These provide the clarity to guide the decision make apparatus and are based on ISO/IEC 42005 starting with mapping the current and planned use of AI.
- - **Policies, Processes and Controls:** 
+ - **Policies, Processes and Controls:** Policies set clear expectations, processes translate those into actions and repeatable workflows and controls ensure that the processes are followed and remain effective over time. Common policies are: AI Deployment, Risk and Data Management, Monitoring, Intake and Acceptable Use
  - **Training and Awareness:** 
  - **Issue Report and Feedback Channels:** 
  - **Program Maturity:** 
