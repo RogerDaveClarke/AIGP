@@ -19,10 +19,10 @@ An AI Governance program is critical to the successful and safe use of AI system
  - **Executive Sponsorship:** This is the cornerstone of the program setting the tone and signaling that responsible AI is a strategic priority, provides resources, clear pathway for decision making, ensures the board has visibility, ensures RAI is everyone's responsibility and ensures the organization's values and norms are embedded.
  - **Risk Assessments:** These provide the clarity to guide the decision make apparatus and are based on ISO/IEC 42005 starting with mapping the current and planned use of AI.
  - **Policies, Processes and Controls:** Policies set clear expectations, processes translate those into actions and repeatable workflows and controls ensure that the processes are followed and remain effective over time. Common policies are: AI Deployment, Risk and Data Management, Monitoring, Intake and Acceptable Use
- - **Training and Awareness:** Implementing such a program is an exercise in change management requiring the audience to clearly understand: Why. How the changes affect their work, their roles, responsibilities, expectations of them and the benefits. The organization needs to create a training program with mandatory and monitored completion, additional accessible paths to learning and drive awareness campaigns.   
- - **Issue Report and Feedback Channels:** What distinguishes a resilient program from a fragile one is not the absence of problems but a clear pathway to raise them. These channels provide a early warning system enabling the organisation to address a risk before it escalates into a costly monster. Channels need to be easy to find and use, are frequently monitored, submission does not result in retaliation, and the loop is visibly closed on all issues. The organization should provide metrics including TTM and these should be available and transparent to all.
- - **Program Maturity:** Akin to a software release, every program 
- - **Automation:** 
+ - **Training and Awareness:** The purpose of training is to ensure employees are appropriately equiped to use AI responsibly. Implementing such a program is an exercise in change management requiring the audience to clearly understand: Why. How the changes affect their work, their roles, responsibilities, expectations of them and the benefits. The organization needs to create a training program with mandatory and monitored completion, additional accessible paths to learning and drive awareness campaigns.   
+ - **Issue Report and Feedback Channels:** What distinguishes a resilient program from a fragile one is not the absence of problems but a clear pathway to raise them. These channels provide a early warning system enabling the organisation to address a risk before it escalates into a costly monster. Channels need to be easy to find and use, are frequently monitored, submission does not result in retaliation, and the loop is visibly closed on all issues.
+ - **Program Maturity:** Akin to a software release, a program should have objective metrics and measures providing transparent oversight and visibility. These should include, but not limited to: No. of AI systems, Usage Trends, Shadow AI Usage, Incident Management, Reported Issues, Training Compliance and KPIs.
+ - **Automation:** A governance program can benefit from automating the following: Auto-Registering Models. Routing Approval Workflows to the correct owner, Tracing the lineage of models and Generating governance artifacts.
 
 
 ## Key Terminology
@@ -33,5 +33,3 @@ An AI Governance program is critical to the successful and safe use of AI system
 ## Practical Implications
 
 ## Relevant Exam Objectives
-
-## Self-Assessment & Next Review Date
