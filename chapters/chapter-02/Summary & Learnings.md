@@ -13,6 +13,9 @@ An AI Governance program is critical to the successful and safe use of AI system
 
 **The Where:** A Governance Program is by its very nature cross-functional requiring expertise, input and decisions from many stakeholders. In order for it to be successful, committed to, adopted, persist and adapt, it must have executive sponsorship. The officers best placed for this role are: Chief Privacy, Chief Information, Chief Legal, Chief Information Security Officer. The inherent risk is that each may prioritize their own domain, undervaluing the others leading to a biased implementation of the progress and how its run. An effective structure must account for these tendencies by assigning clear ownership to the most appropriate function and requie close collaboration with the others.
 
+**The Who**: This is the group of people and entities that influence, contribute to, or are affected by the organization's strategy including internal and external stakeholders. This part of the program should create an ecosystem map that establishes clear lines of communications using the following steps: Identfy stakeholders, Categorize and Prioritize stakeholders, Develop and implement engagement policies and Monitor and adjust.
+
+
 ## Key Terminology
 - AI Governance, Data Stewardship, AI Inventory, Monitoring, AI Intake, Shadow AI, Auto-Registration, Model Card, Trace Lineage, Content Filters, Human-Agent Interaction
 - 
