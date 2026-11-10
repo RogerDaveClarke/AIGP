@@ -28,18 +28,17 @@ Organizations are approach this based on three core themes:
 - Utilise metrics to determine engagement
   
 There are 8 recognized functions with AI governance, akin to the European Cyber Security Skills Framework.
-- Policy: Aligns organizational policies with the AI policy landscape, creates internal/external policies for development, deployment and use of AI systems and training and awareness for these. The skills needed are Researches and analyse laws, regulations and industry standards, draft policies, engage and align stakeholders. Key knowledge areas are: Organizational strategy for AI and its governance, AI development life cycle, principles and concepts, relevant laws,  regulations and industry standards 
-- Governance: Create framework policies and controls. Key skills are Build/procure tools to run the program, track and report metrics and risks, monitor compliance and promote literacy and upskilling
-- Technical
-- Product
-- Ethics
+- Policy: Aligns organizational policies with the AI policy landscape, creates internal/external policies for development, deployment and use of AI systems and training and awareness for these. Skills: research and analyse laws, regulations and industry standards, draft policies, engage and align stakeholders. Key knowledge areas are: Organizational strategy for AI and its governance, AI development life cycle, principles and concepts, relevant laws, regulations and industry standard. Skills are program/project management, tool and vendor evaluation, data tracking and analysis, training and development. 
+- Governance: Create framework policies and controls. Tasks: Build/procure tools to run the program, track and report metrics and risks, monitor compliance and promote literacy and upskilling
+- Technical: Develop, deploy and maintain responsible AI systems. **Tasks:** build/test AI systems, document results and mitigations, monitor/maintain production systems, contribute to AI policy development. **Skills:** AI System development, testing and eval, Preparation and analysis of technical documentation, RCA and translate technical capabilities/limitations into governance and risk insights.
+- Product: Integrate AI capabilities into a product. **Tasks:** define strategy, translate governance requirements, prioritize AI capabilities, prepare user facing documentation, monitor and maintain products/services. **Skills:** Product Strategy/Life cycle management/roadmap, UI design, comms with technical and non-technical audiences
+- Ethics: Oversight of AI systems. **Tasks:** Establish and embed and operationalize RAI across an org including dev life cycle and ethical awareness. **Skills:** 
 - Risk
 - Legal
 - Assurance
-- 
-
 
 ## Key Terminology
+Applied Ethical Reasoning
 
 ## Principal Learnings & Reflections
 
