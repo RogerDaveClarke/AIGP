@@ -32,8 +32,8 @@ There are 8 recognized functions with AI governance, akin to the European Cyber 
 - Governance: Create framework policies and controls. Tasks: Build/procure tools to run the program, track and report metrics and risks, monitor compliance and promote literacy and upskilling
 - Technical: Develop, deploy and maintain responsible AI systems. **Tasks:** build/test AI systems, document results and mitigations, monitor/maintain production systems, contribute to AI policy development. **Skills:** AI System development, testing and eval, Preparation and analysis of technical documentation, RCA and translate technical capabilities/limitations into governance and risk insights.
 - Product: Integrate AI capabilities into a product. **Tasks:** define strategy, translate governance requirements, prioritize AI capabilities, prepare user facing documentation, monitor and maintain products/services. **Skills:** Product Strategy/Life cycle management/roadmap, UI design, comms with technical and non-technical audiences
-- Ethics: Oversight of AI systems. **Tasks:** Establish and embed and operationalize RAI across an org including dev life cycle and ethical awareness. **Skills:** 
-- Risk
+- Ethics: Oversight of AI systems. **Tasks:** Establish and embed and operationalize RAI across an org including dev life cycle and ethical awareness. **Skills:** Translated ethical principles into practices, communication and training for technical/non-technical audiences. 
+- Risk: 
 - Legal
 - Assurance
 
