@@ -1,6 +1,6 @@
 ﻿# Chapter 3: Key Stakeholders in AI Governance
 
-- **Reading date:11/10/2026
+- **Reading date:** 11/10/2026
 - **Source edition:** AI Governance: From Strategy to Execution (IAPP)
 - **Status:** Complete
 
