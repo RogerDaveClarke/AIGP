@@ -5,7 +5,10 @@
 - **Status:** 50%
 
 ## Summary
-Oversight is defined as the allocation and exercise of rights to ensure a strategy is executed with accountability, transforming principles into actions and addressing unavoidable tensions and tradeoffs. Within organizations it may span multiple levels which can be layered to enhance effectiveness. The chosen approach needs to be clearly defined and structurally embedded.
+Oversight is defined as the allocation and exercise of rights to ensure a strategy is executed with accountability, transforming principles into actions and addressing unavoidable tensions and tradeoffs. Within organizations it may span multiple levels which can be layered to enhance effectiveness. The chosen approach needs to be clearly defined and structurally embedded. The common operators are: 
+- Board of Directors
+- Chief AI Officer
+- AI Governance Committee
 
 
 ## Key Terminology
