@@ -22,6 +22,9 @@ Specifically the board needs to consider the following areas:
 - Operational oversight: Determine how AI systems are currently in use, ensure the organisation has visibility into systems and provide monitoring and verify escalation pathways so that risks and incidents are made available to management and the board in a timely manner.
 - Workforce strategy and talent acquisitions: Evaluate the impact of AI on the workforce including talent strategy, skilling and culture.
 
+**Chief AI Officer**
+This role is essential to an organisations AI strategy. The responsibilities include:
+- 
 
 ## Key Terminology
 - Oversight
