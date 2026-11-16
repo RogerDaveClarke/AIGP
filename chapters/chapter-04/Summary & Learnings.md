@@ -27,7 +27,10 @@ The role sits at the intersection of business strategy, technology, people and o
 
 The officer must have mastered key skills including strategic judgement they can assess potential use cases and focus attention on those most likely to deliver value, technical literacy where they must understand the capabilities and limitations of AI technologies to make decisions and guide cross-functional teams, building consensus which is essential to align a large and diverse group of stakeholders and motivate them to execute collaboratively and finally ethical leadership where their role is to set the standard in driving top-down commitment across the organization. 
 
-In order for the role to be effective, the organization must clarity the reporting structure where who they report to sends a clear signal about how serious the organization is and, define their authority and decision rights. For the CAIO to be effective from the outset of their tenure, they need to build C-Suite partnerships creating a consistent cadence with business, technology, legal and other leaders to align on priorities, seize opportunties by centralizing visibility into AI initiatives, identify and prioritize high-value opportunities, track value by defining success metrics, monitor performance and allocate resources, establish AI governance as a foundation  
+In order for the role to be effective, the organization must clarity the reporting structure where, who they report to sends a clear signal about how serious the organization is and define their authority and decision rights. For the CAIO to be effective from the outset of their tenure, they need to build C-Suite partnerships creating a consistent cadence with business, technology, legal and other leaders to align on priorities, seize opportunties by centralizing visibility into AI initiatives, identify and prioritize high-value opportunities, track value by defining success metrics, monitor performance and allocate resources, establish AI governance as a foundation to drive better and more scalable outcomes in the short and long term, and finally, own change management by embedding AI capabilities into real-world workflows, orchestrate training, communications and incentives to drive adoption.
+
+**AI Governance Committee**
+
 
 
 ## Key Terminology
