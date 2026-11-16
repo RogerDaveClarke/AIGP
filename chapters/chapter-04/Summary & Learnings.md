@@ -23,8 +23,12 @@ Specifically the board needs to consider the following areas:
 - Workforce strategy and talent acquisitions: Evaluate the impact of AI on the workforce including talent strategy, skilling and culture.
 
 **Chief AI Officer**
-This role is essential to an organisations AI strategy. The responsibilities include:
-- 
+The role sits at the intersection of business strategy, technology, people and organizational change and, is essential to an organisations AI strategy. The responsibilities include five common themes starting with the enterprise AI Strategy where, they design the roadmap, identify use cases and align investments with organizational objectives. Second, they need to establish a governance framework, guide and oversee how AI is responsibly developed, deployed and used. Third, is to implementation where they translate concepts into production projects integrating AI systems into business operations. Fourth is to prompt consistency and continuous improvement by promoting enterprise alignment both horizontally and vertically. Finally, establish AI expertise through training, awareness and other initiatives. 
+
+Skills: 
+
+
+
 
 ## Key Terminology
 - Oversight
