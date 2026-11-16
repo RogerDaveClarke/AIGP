@@ -19,7 +19,8 @@ Specifically the board needs to consider the following areas:
 - Composition, structure and education: Ensure the board has sufficient expertise to oversee AI strategy and governance including assigning a committee and establishing an education program covering AI technological developments, emerging risks and regulatory changes. 
 - AI Strategy and value creation: Evaluate how AI initiatives align with long-term strategry, competitive position and capital allocation priorities.
 - AI Risk management and compliance: Ensure risks are integrated into the risk management framework, reliance on 3rd party systems, a management plan to comply with regulations and laws and a mechanism to evaluate and make public disclosures including material risks.
-- Operational oversight: Determine how AI syste 
+- Operational oversight: Determine how AI systems are currently in use, ensure the organisation has visibility into systems and provide monitoring and verify escalation pathways so that risks and incidents are made available to management and the board in a timely manner.
+- Workforce strategy and talent acquisitions:
 
 
 ## Key Terminology
