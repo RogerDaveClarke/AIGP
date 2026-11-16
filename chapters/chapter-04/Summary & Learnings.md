@@ -10,6 +10,8 @@ Oversight is defined as the allocation and exercise of rights to ensure a strate
 - Chief AI Officer
 - AI Governance Committee
 
+
+
 ### Roles and Responsibilities
 **Board of directors**
  - Duty of Care: the board is sufficiently engaged and informed to understand the organization's AI strategy and associated risks requiring an ongoing understanding of how AI is being development, deployment and governed. The board should be able to confirm that risks are being responsibly identified and managed.
@@ -30,8 +32,11 @@ The officer must have mastered key skills including strategic judgement they can
 In order for the role to be effective, the organization must clarity the reporting structure where, who they report to sends a clear signal about how serious the organization is and define their authority and decision rights. For the CAIO to be effective from the outset of their tenure, they need to build C-Suite partnerships creating a consistent cadence with business, technology, legal and other leaders to align on priorities, seize opportunties by centralizing visibility into AI initiatives, identify and prioritize high-value opportunities, track value by defining success metrics, monitor performance and allocate resources, establish AI governance as a foundation to drive better and more scalable outcomes in the short and long term, and finally, own change management by embedding AI capabilities into real-world workflows, orchestrate training, communications and incentives to drive adoption.
 
 **AI Governance Committee**
+A committee distributes responsibility across a leadership making AI strategy and governance more coordinated. This approach can work well for organizations starting out with AI and, to be successful, they need to 1) Define the committees mandate including intake approval, risk classification, build-verus-buy decisions, third-party model review and vendor diligence, pre-deployment approval, human oversight requirements, recording keeping, performance monitoring, incident management and decommissions, 2) Establish decision ownership boundaries, where it provides input and what must be escalated to the board, 3) Documentation responsibilities and decision rights in charter and 4) monitor legal, regulations, technology and industry decisions to inform all decisions 5) Select members who expertise matches the documented responsibilities (e.g. legal, privacy, IT security risk, compliance and HR), 6) Establish a consistent meeting cadence supporting timely decision making and a mechanism to address time-sensitive issues 7) Document all decisions and their rationale promoting transparency and 8) Provide timely updates to affected stakeholders to promote transparency. 
 
+Internal Committees are operational and drive execution, external act as consultants. 
 
+ 
 
 ## Key Terminology
 - Oversight
