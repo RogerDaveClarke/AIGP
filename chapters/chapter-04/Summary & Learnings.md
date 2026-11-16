@@ -1,17 +1,30 @@
-﻿# Chapter 4: Organizational Oversight of AI
+# Chapter 4: Organizational Oversight of AI
 
-- **Reading date:**
+- **Reading date:** 10/13/2026
 - **Source edition:** AI Governance: From Strategy to Execution (IAPP)
-- **Status:** Not started
+- **Status:** 50%
 
 ## Summary
+Oversight is defined as the allocation and exercise of rights to ensure a strategy is executed with accountability, transforming principles into actions and addressing unavoidable tensions and tradeoffs. Within organizations it may span multiple levels which can be layered to enhance effectiveness. The chosen approach needs to be clearly defined and structurally embedded. The common operators are: 
+- Board of Directors
+- Chief AI Officer
+- AI Governance Committee
+
+### Roles and Responsibilities
+**Board of directors**
+Duty of Care: 
 
 ## Key Terminology
+- Oversight
+- Structurally embededded
 
 ## Principal Learnings & Reflections
+- Oversight needs to clearly defined and structurally embedded in an organization
+
 
 ## Practical Implications
 
 ## Relevant Exam Objectives
 
 ## Self-Assessment & Next Review Date
+
