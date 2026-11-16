@@ -5,12 +5,10 @@
 - **Status:** 50%
 
 ## Summary
-Oversight is defined as the allocation and exercise of rights to ensure a strategy is executed with accountability, transforming principles into actions and addressing unavoidable tensions and tradeoffs. Within organizations it may span multiple levels which can be layered to enhance effectiveness. The chosen approach needs to be clearly defined and structurally embedded. The common operators are: 
+AI governance is a team activity, and its success depends on leaders sharing a common understand of their roles, willingness to cooperate and trust in the process. AI cuts across traditional domains owned by individual executives with the risk that it's perceived as an encroachment with common challenges being legacy structures, competing incentives and organization change which requires a leader to anticipate friction and design for it. One of the most common challenges is resourcing the effort with responsibilities landing on individuals with competing priorities and workload. Whilst there are solutions to these challenges, establishing Oversight is the starting point. Oversight is defined as the allocation and exercise of rights to ensure a strategy is executed with accountability, transforming principles into actions and addressing unavoidable tensions and tradeoffs. Within organizations it may span multiple levels which can be layered to enhance effectiveness. The chosen approach needs to be clearly defined and structurally embedded. The common operators are: 
 - Board of Directors
 - Chief AI Officer
 - AI Governance Committee
-
-
 
 ### Roles and Responsibilities
 **Board of directors**
@@ -36,7 +34,8 @@ A committee distributes responsibility across a leadership making AI strategy an
 
 Internal Committees are operational and drive execution, external act as consultants. 
 
- 
+**Management Clarity**
+Regardless of AI oversight being driven by CAIO or governance committee, the foremost question will be this: who responsible. The concerns can be addressed by clearly defining 1) Decision rights 2) Escalation paths and 4) Joint accountability for outcomes. 
 
 ## Key Terminology
 - Oversight
@@ -45,7 +44,7 @@ Internal Committees are operational and drive execution, external act as consult
 
 ## Principal Learnings & Reflections
 - Oversight needs to clearly defined and structurally embedded in an organization
-
+- Who is responsible for oversight needs to be established early on with clear decision rights, escalation paths and accountability
 
 ## Practical Implications
 
