@@ -13,6 +13,7 @@ Oversight is defined as the allocation and exercise of rights to ensure a strate
 ### Roles and Responsibilities
 **Board of directors**
  - Duty of Care: the board is sufficiently engaged and informed to understand the organization's AI strategy and associated risks requiring an ongoing understanding of how AI is being development, deployment and governed. The board should be able to confirm that risks are being responsibly identified and managed.
+ - Duty of loyalty: assess that AI delivers longterm enterprise value and is consistent with organizational principles, stakeholder commitments and legal obligations.
 
 ## Key Terminology
 - Oversight
