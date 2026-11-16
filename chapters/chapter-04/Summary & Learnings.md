@@ -25,7 +25,7 @@ Specifically the board needs to consider the following areas:
 **Chief AI Officer**
 The role sits at the intersection of business strategy, technology, people and organizational change and, is essential to an organisations AI strategy. The responsibilities include five common themes starting with the enterprise AI Strategy where, they design the roadmap, identify use cases and align investments with organizational objectives. Second, they need to establish a governance framework, guide and oversee how AI is responsibly developed, deployed and used. Third, is to implementation where they translate concepts into production projects integrating AI systems into business operations. Fourth is to prompt consistency and continuous improvement by promoting enterprise alignment both horizontally and vertically. Finally, establish AI expertise through training, awareness and other initiatives. 
 
-Skills: 
+The officer must have mastered key skills including strategic judgement they can assess potential use cases and focus attention on those most likely to deliver value, technical literacy where they must understand the capabilities and limitations of AI technologies to make decisions and guide cross-functional teams, building consensus which is essential to align a large and diverse group of stakeholders and motivate them to execute collaboratively and finally ethical leadership where their role is to set the standard in driving top-down commitment across the organization. 
 
 
 
