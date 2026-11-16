@@ -1,8 +1,8 @@
 # Chapter 4: Organizational Oversight of AI
 
-- **Reading date:** 10/13/2026
+- **Reading date:** 10/16/2026
 - **Source edition:** AI Governance: From Strategy to Execution (IAPP)
-- **Status:** 50%
+- **Status:** 100%
 
 ## Summary
 AI governance is a team activity, and its success depends on leaders sharing a common understand of their roles, willingness to cooperate and trust in the process. AI cuts across traditional domains owned by individual executives with the risk that it's perceived as an encroachment with common challenges being legacy structures, competing incentives and organization change which requires a leader to anticipate friction and design for it. One of the most common challenges is resourcing the effort with responsibilities landing on individuals with competing priorities and workload. Whilst there are solutions to these challenges, establishing Oversight is the starting point. Oversight is defined as the allocation and exercise of rights to ensure a strategy is executed with accountability, transforming principles into actions and addressing unavoidable tensions and tradeoffs. Within organizations it may span multiple levels which can be layered to enhance effectiveness. The chosen approach needs to be clearly defined and structurally embedded. The common operators are: 
