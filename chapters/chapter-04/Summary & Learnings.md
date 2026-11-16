@@ -17,10 +17,9 @@ Oversight is defined as the allocation and exercise of rights to ensure a strate
 
 Specifically the board needs to consider the following areas:
 - Composition, structure and education: Ensure the board has sufficient expertise to oversee AI strategy and governance including assigning a committee and establishing an education program covering AI technological developments, emerging risks and regulatory changes. 
-- AI Strategy and value creation: 
-- AI Risk management and compliance
-- Operational oversight
-- Workforce strategy and talent implications
+- AI Strategy and value creation: Evaluate how AI initiatives align with long-term strategry, competitive position and capital allocation priorities.
+- AI Risk management and compliance: Ensure risks are integrated into the risk management framework, reliance on 3rd party systems, a management plan to comply with regulations and laws and a mechanism to evaluate and make public disclosures including material risks.
+- Operational oversight: Determine how AI syste 
 
 
 ## Key Terminology
