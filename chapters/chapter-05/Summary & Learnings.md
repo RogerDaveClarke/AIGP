@@ -1,6 +1,6 @@
 ﻿# Chapter 5: Comparative Approaches to AI Regulation
 
-- **Reading date:11/18/2026
+- **Reading date:** 11/18/2026
 - **Source edition:** AI Governance: From Strategy to Execution (IAPP)
 - **Status:** In Progress
 
@@ -12,7 +12,7 @@ Governments around the world have differing approaches to AI regulation from har
   - Legislation: sets for forth obligations an organization must follow
   - Regulations: provide details on how legislation should be implemented
   - Judicial decisions: apply remedies for failure to comply and help interpret the application of legalisation and regulation  
-- Soft law:  
+- Soft law: does not create binding legal obligations and fills gaps in hard law or where hard law does not exist. It fosters share views among governments, industry and technical experts. Soft can be categorized into Ethical Guidelines such as the OECD AI Principles, Industry and Technical Standards such as the NSIT AI RMF and Government-issued frameworks such as the Singapore model.
 
 ## Principal Learnings & Reflections
 
