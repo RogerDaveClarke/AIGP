@@ -13,6 +13,7 @@ Governments around the world have differing approaches to AI regulation from har
   - Regulations: provide details on how legislation should be implemented
   - Judicial decisions: apply remedies for failure to comply and help interpret the application of legalisation and regulation  
 - Soft law: does not create binding legal obligations, whose adoption is voluntary and fills gaps in hard law or where hard law does not exist. It fosters share views among governments, industry and technical experts providing flexible easy easily updatable instruments. Soft can be categorized into Ethical Guidelines such as the OECD AI Principles, Industry and Technical Standards such as the NSIT AI RMF and Government-issued frameworks such as the Singapore model.
+- Hybrid: A combination of hard law and soft law elements offering flexibility. The hard law elements set clear enforceable boundaries and the soft law provides guidelines and standards.
 
 ## Principal Learnings & Reflections
 
