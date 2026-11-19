@@ -12,6 +12,7 @@
 - https://aisecurityandsafety.org/en/frameworks/singapore-ai-verify/
 - https://aisecurityandsafety.org/en/frameworks/aisi-international-network/
 - https://www.soumu.go.jp/hiroshimaaiprocess/en/index.html
+- https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance
   
 ## Notes
 
