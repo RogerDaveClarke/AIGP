@@ -5,9 +5,8 @@
 - **Status:** In Progress
 
 ## Summary
-Governments around the world have differing approaches to AI regulation from hard law (legislation, regulation and judicial decisions to a softer approach of rekommandations which are unenforceable. In order to design an AI governance program, we need a framework with which to understand and the current legal landscape and prepare for future developments. 
+There is no single AI governance model for regulating AI. Many countries have adoption a soft non-binding and voluntary approach, often sector or technology specific and have use a distributed model leveraging existing legislation and regulatory bodies. Countries like Brazil and the U.K are moving closer to hard horizontal binding legislation, but most take a more cooperative approach with industry. All models share common principles such as safety, transparency but the implementation of these principles differs greatly. 
 
-There is no single AI governance model for regulating AI. Many countries have adoption a soft non-binding and voluntary approach, often sector or technology specific and have use a distributed model leveraging existing legislation and regulatory bodies. That said, countries like Brazil and the U.K, and moving closer to a hard horizontal binding legislation. All models share common characteristics... 
 
 | Country   | Law Type | Characteristics | Examples of efficacy |
 | --------- | -------- | --------------- | --------------- |
