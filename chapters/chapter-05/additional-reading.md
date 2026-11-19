@@ -5,6 +5,7 @@
 - https://ico.org.uk/about-the-ico/what-we-do/digital-regulation-cooperation-forum/
 - https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan
 - https://www.aisi.gov.uk/
+- https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy
   
 ## Notes
 
