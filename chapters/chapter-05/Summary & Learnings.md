@@ -27,15 +27,9 @@ Governments around the world have differing approaches to AI regulation from har
 | Brazil    | Horizontal and Comprehensive | - Legislation not yet enacted | |
 | Brazil    | Horizontal and Comprehensive | - Risk based on rights to explanation, human review of consequential decisions, protection against discrimination | |
 | Brazil    | Horizontal and Comprehensive | - Adaptive. Combining experimentation with targeted enforcement | |
-| China     |  | -  | |
-| China     |  | -  | |
-| China     |  | -  | |
-| US |  | -  | |
-| US |  | -  | |
-| EU |  | -  | |
-| EU |  | -  | |
-| EU |  | -  | |
-|  |  | -  | |
+| China     | Vertical & technology specific | - Binding for specific services | |
+| China     | Vertical & technology specific | - Security and content centric | |
+| China     | Vertical & technology specific | - State led. Strong regulatory authority, ethical guidelines, technical standards and industrial authority | |
 
 ## Key Terminology
 - Hard law: Provides legal certainty and enforceability using a risk-based approach with stringent requirements. It consists of legally binding legislation, regulations and judicial decisions and can be horizontal applying across sectors or vertical applying to specific areas.
