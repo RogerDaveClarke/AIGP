@@ -16,6 +16,7 @@
 - https://www.pib.gov.in/PressReleasePage.aspx?PRID=2228315&reg=48&lang=2
 - https://regulations.ai/regulations/RAI-BR-NA-SUMMARY-2026
 - https://repository.uclawsf.edu/hastings_international_comparative_law_review/vol48/iss2/3/
+- https://iapp.org/resources/article/global-ai-legislation-tracker
   
 ## Notes
 
