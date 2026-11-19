@@ -5,7 +5,12 @@
 - **Status:** In Progress
 
 ## Summary
-There is no single AI governance model for regulating AI. Many countries have adoption a soft non-binding and voluntary approach, often sector or technology specific and have use a distributed model leveraging existing legislation and regulatory bodies. Countries like Brazil and the U.K are moving closer to hard horizontal binding legislation, but most take a more cooperative approach with industry. All models share common principles such as safety, transparency but the implementation of these principles differs greatly. 
+There is no single AI governance model for regulating AI. Many countries have adoption a soft non-binding and voluntary approach, often sector or technology specific and have use a distributed model leveraging existing legislation and regulatory bodies. Countries like Brazil and the U.K are moving closer to hard horizontal binding legislation, but most take a more cooperative approach with industry. All models share common principles such as safety, transparency but the implementation of these principles differs greatly. To stay abreast of changes, you can do the following:
+
+1. Track legal developments using the IAPP Global AI Law and Policy Tracker
+2. Understand the underlying technology
+3. Prioritize key juristictions
+4. Identify common and diverging requirements to build your own governance program
 
 
 | Country   | Law Type | Characteristics | Examples of efficacy |
