@@ -16,14 +16,14 @@ Governments around the world have differing approaches to AI regulation from har
 | Canada    | Soft     | - Non-binding principles & non-prescriptive. Adoption is voluntary. Regulatory Guidance | | 
 | Canada    | Soft     | - Focused on research, talent development, commercialization | |
 | Singapore | Soft     | - Non-binding principles & non-prescriptive. Adoption is voluntary. Regulatory Guidance | |
-| Singapore | Soft     | - Distributed across existing regulatory bodies | |
+| Singapore | Soft     | - Sector specific apply existing laws and regulations to AI | |
 | Singapore | Soft     | - Focused on fostering trust, developing excellence, maximize economic growth and impact, public confidence and international cooperation | |
 | Australia | Soft     | - Non-binding principles & non-prescriptive. Adoption is voluntary. Regulatory Guidance | |
-|  |  | -  | |
-|  |  | -  | |
-|  |  | -  | |
-|  |  | -  | |
-|  |  | -  | |
+| Australia | Soft     | - Risk based | |
+| Australia | Soft     | - Collaborative, incremental  | |
+| India     | Soft     | - Non-binding principles & non-prescriptive. Adoption is voluntary. Regulatory Guidance | |
+| India     | Soft     | - Sectoral utilizing existing laws and guidance | |
+| India     | Soft     | - Focused on building capabilities, fostering innovation, inclusive growth, accountability and safety | |
 |  |  | -  | |
 |  |  | -  | |
 |  |  | -  | |
