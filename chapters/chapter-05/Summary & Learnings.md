@@ -7,9 +7,17 @@
 ## Summary
 Governments around the world have differing approaches to AI regulation from hard law (legislation, regulation and judicial decisions to a softer approach of rekommandations which are unenforceable. In order to design an AI governance program, we need a framework with which to understand and the current legal landscape and prepare for future developments. 
 
-| Country | Law Type | Characteristics |
-| ------- | -------- | --------------- |
-
+| Country   | Law Type | Characteristics | Examples of efficacy |
+| --------- | -------- | --------------- | |
+| UK        | Soft     | - Non-binding principles & non-prescriptive. Adoption is voluntary. Regulatory Guidance | |
+| UK        | Soft     | - Distributed across existing regulatory bodies | |
+| UK        | Soft     | - Incremental & adaptive. Favors guidance and experimentation | |
+| UK        | Soft     | - Focused on adoption, innovation and economic opportunity | |
+| Canada    | Soft     | - Non-binding principles & non-prescriptive. Adoption is voluntary. Regulatory Guidance | | 
+| Canada    | Soft     | - Focused on research, talent development, commercialization | |
+| Singapore | Soft     | - Non-binding principles & non-prescriptive. Adoption is voluntary. Regulatory Guidance | |
+| Singapore | Soft     | - Distributed across existing regulatory bodies | |
+| Singapore | Soft     | - Focused on fostering trust, economic growth, public confidence and international cooperation | |
 
 
 ## Key Terminology
