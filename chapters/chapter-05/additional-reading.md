@@ -15,6 +15,7 @@
 - https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance
 - https://www.pib.gov.in/PressReleasePage.aspx?PRID=2228315&reg=48&lang=2
 - https://regulations.ai/regulations/RAI-BR-NA-SUMMARY-2026
+- https://repository.uclawsf.edu/hastings_international_comparative_law_review/vol48/iss2/3/
   
 ## Notes
 
