@@ -7,6 +7,11 @@
 ## Summary
 Governments around the world have differing approaches to AI regulation from hard law (legislation, regulation and judicial decisions to a softer approach of rekommandations which are unenforceable. In order to design an AI governance program, we need a framework with which to understand and the current legal landscape and prepare for future developments. 
 
+| Country | Law Type | Characteristics |
+| ------- | -------- | --------------- |
+
+
+
 ## Key Terminology
 - Hard law: Provides legal certainty and enforceability using a risk-based approach with stringent requirements. It consists of legally binding legislation, regulations and judicial decisions and can be horizontal applying across sectors or vertical applying to specific areas.
   - Legislation: sets for forth obligations an organization must follow
