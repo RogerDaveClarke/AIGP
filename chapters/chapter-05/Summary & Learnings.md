@@ -24,10 +24,18 @@ Governments around the world have differing approaches to AI regulation from har
 | India     | Soft     | - Non-binding principles & non-prescriptive. Adoption is voluntary. Regulatory Guidance | |
 | India     | Soft     | - Sectoral utilizing existing laws and guidance | |
 | India     | Soft     | - Focused on building capabilities, fostering innovation, inclusive growth, accountability and safety | |
+| Brazil    | Horizontal and Comprehensive | - Legislation not yet enacted | |
+| Brazil    | Horizontal and Comprehensive | - Risk based on rights to explanation, human review of consequential decisions, protection against discrimination | |
+| Brazil    | Horizontal and Comprehensive | - Adaptive. Combining experimentation with targeted enforcement | |
+| China     |  | -  | |
+| China     |  | -  | |
+| China     |  | -  | |
+| US |  | -  | |
+| US |  | -  | |
+| EU |  | -  | |
+| EU |  | -  | |
+| EU |  | -  | |
 |  |  | -  | |
-|  |  | -  | |
-|  |  | -  | |
-
 
 ## Key Terminology
 - Hard law: Provides legal certainty and enforceability using a risk-based approach with stringent requirements. It consists of legally binding legislation, regulations and judicial decisions and can be horizontal applying across sectors or vertical applying to specific areas.
