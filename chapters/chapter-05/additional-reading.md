@@ -14,6 +14,7 @@
 - https://www.soumu.go.jp/hiroshimaaiprocess/en/index.html
 - https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance
 - https://www.pib.gov.in/PressReleasePage.aspx?PRID=2228315&reg=48&lang=2
+- https://regulations.ai/regulations/RAI-BR-NA-SUMMARY-2026
   
 ## Notes
 
