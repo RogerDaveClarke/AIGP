@@ -6,6 +6,8 @@
 - https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan
 - https://www.aisi.gov.uk/
 - https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy
+- https://aipolicytracker.org/policies/canada-voluntary-code-of-conduct-on-the-responsible-development-and-management-of-advanced-generative-ai-syste
+- https://oecd.ai/en/dashboards/policy-initiatives/voluntary-code-of-conduct-on-the-responsible-development-and-management-of-advanced-generative-ai-systems
   
 ## Notes
 
